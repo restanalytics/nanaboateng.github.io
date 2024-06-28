@@ -4,29 +4,29 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
-title: Dean Attali
-author: Dean Attali
+#title: Dean Attali
+#author: Dean Attali
 
 
 navbar-links:
   Blog: "/"
-  Hire me: "https://attalitech.com/"
+  Hire Us: "https://coastalartificialintelligence.github.io/"
   Projects: "projects"
-  About Me / Contact: "aboutme"
-  ❤ Support: "https://github.com/sponsors/daattali"
+  About Us / Contact: "aboutme"
+  ❤ Support: "https://github.com/sponsors/coastalartificialintelligence"
 
-avatar: "/assets/img/deanimg.jpeg"
+#avatar: "/assets/img/deanimg.jpeg"
 
 social-network-links:
-  email: "daattali@gmail.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  linkedin: "daattali"
-  stackoverflow: "3943160/daattali"
-  calendly: "attalitech/meeting"
-  youtube: "@daattali?sub_confirmation=1"
-  patreon: DeanAttali
+  email: "coastalaighana@gmail.com"
+  facebook: 
+  github: coastalartificialintelligence
+  twitter: 
+  linkedin: ""
+  #stackoverflow: "3943160/daattali"
+  calendly: ""
+  #youtube: "@daattali?sub_confirmation=1"
+  #patreon: DeanAttali
 
 share-links-active:
   twitter: true
@@ -37,7 +37,7 @@ excerpt_length: 50
 feed_show_excerpt: false
 feed_show_tags: false
 
-keywords: "r shiny,r shiny developer,shiny developer,shiny apps,shiny consultant,dashboards r,interactive dashboards"
+keywords: "Genrative AI, Machine Learning, Artificial Intelligence"
 
 link-col: "#404040"
 
@@ -48,17 +48,17 @@ site-js: "/assets/js/custom-script.js"
 
 edit_page_button: true
 
-timezone: "America/Toronto"
+timezone: "America/NewYork"
 permalink: /blog/:title/
 paginate: 10
 paginate_path: "/page:num/"
 
-disqus: "deanattali-site"
-gtag: "G-HKWW77BNTR"
-fb_app_id: "536330676521989"
+#disqus: "deanattali-site"
+#gtag: "G-HKWW77BNTR"
+#fb_app_id: "536330676521989"
 
 url-pretty: "❤ Support"
-url-canonical: https://github.com/sponsors/daattali
+url-canonical: https://github.com/sponsors/coastalartificialintelligence
 
 defaults:
   -
