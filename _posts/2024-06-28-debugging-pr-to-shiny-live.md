@@ -1,4 +1,3 @@
-
 ---
 title: "[Video] Submitting a PR to {shiny} LIVE"
 subtitle: "Debugging with Dean series: Instead of waiting for RStudio to fix a bug I found, I made a pull request to fix the issue, and recorded the entire process"
