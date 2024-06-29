@@ -39,7 +39,7 @@ feed_show_tags: false
 
 keywords: "Genrative AI, Machine Learning, Artificial Intelligence"
 
-link-col: "#404040"
+
 
 mobile-theme-col: "#0085A1"
 
@@ -99,6 +99,34 @@ defaults:
       layout: "page"
       before-content: [support_promo_box.html, carbonads.html]
       footer-extra: footer-subscribe.html
+      
+      
+######################################
+# --- Colours / background image --- #
+######################################
+
+# Personalize the colours in your website. Colour values can be any valid CSS colour
+
+page-col: "#FFFFFF"
+text-col: "#404040"
+link-col: "#008AFF"
+#link-col: "#404040"
+hover-col: "#0085A1"
+navbar-col: "#17100F"
+navbar-text-col: "	#FFFFFF"
+navbar-border-col: "#DDDDDD"
+footer-col: "#17100F"
+footer-text-col: "#777777"
+footer-link-col: "#404040"
+footer-hover-col: "#0085A1"
+
+# Alternatively, the navbar, footer, and page background can be set to an image
+# instead of colour
+
+#navbar-img: "/assets/img/bgimage.png"
+#footer-img: "/assets/img/bgimage.png"
+#page-img: "/assets/img/bgimage.png"      
+      
 
 exclude:
   - CHANGELOG.md
