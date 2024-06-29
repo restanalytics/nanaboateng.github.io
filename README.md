@@ -1,8 +1,6 @@
-# Dean Attali's website
+# Coastal ai's website
 
-> *Copyright 2023 [Dean Attali](https://deanattali.com). Licensed under the MIT license.*
-
-Dean Attali's website [https://deanattali.com](https://deanattali.com)
+Coastal ai's website [[https://deanattali.com]([https://deanattali.com](https://coastalartificialintelligence.github.io/)](https://coastalartificialintelligence.github.io/))
 
 The theme for this website has been open-sourced as [Beautiful Jekyll](https://beautifuljekyll.com/).
 
