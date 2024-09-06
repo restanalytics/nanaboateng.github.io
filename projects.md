@@ -1,10 +1,9 @@
 ---
 layout: page
 title: Projects
-subtitle: 
-
+#subtitle: 
 share-title: | Projects
-share-description: This is a collection of someof our  projects
+share-description: This is a collection of some of our  projects
 comments: true
 carbonads: true
 ---
