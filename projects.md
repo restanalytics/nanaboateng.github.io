@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Projects
-subtitle: New Projects
+subtitle: 
+
 share-title: | Projects
 share-description: This is a collection of someof our  projects
 comments: true
