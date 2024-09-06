@@ -1,6 +1,6 @@
 ---
 title: "[Video] Submitting a PR to {shiny} LIVE"
-subtitle: "Debugging with Dean series: Instead of waiting for RStudio to fix a bug I found, I made a pull request to fix the issue, and recorded the entire process"
+subtitle: "Debugging Instead of waiting for RStudio to fix a bug I found, I made a pull request to fix the issue, and recorded the entire process"
 thumbnail-img: "/assets/img/blog/debugging-with-dean-1/pr-to-shiny-live.png"
 tags: [rstats, shiny, tutorial, youtube]
 permalink: /blog/debuggingwithdean-pr-to-shiny-live/
