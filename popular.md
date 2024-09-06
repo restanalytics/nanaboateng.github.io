@@ -6,7 +6,7 @@ css: "/assets/css/index.css"
 share-img: /assets/img/
 share-title: " | Popular posts"
 share-description: "List of all the most popular posts "
-[comment]: <> (support_promo_box: true)
+upport_promo_box: false
 cover-img:
   - "/assets/img/big-imgs/costa-rica-house.jpeg" : "Montezuma, Costa Rica (2011)"
   - "/assets/img/big-imgs/grouse-grind.jpeg" : "Vancouver, Canada (2014)"
