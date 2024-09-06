@@ -1,46 +1,39 @@
-#aboutme-section {
-  font-size: 1.1875rem;
+.about-me-section {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  background-color: #f7f7f7;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
-.about-text {
-  position: relative;
-  margin-left: 1.875rem;
+.profile-picture {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  margin: 20px;
+  overflow: hidden;
 }
 
-.about-icon {
-  font-size: 1.5rem;
-  position: absolute;
-  left: -2.5rem;
-  margin-top: 0.3125rem;
+.profile-pic {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 50%;
 }
 
-#aboutme-section p:last-child {
-  margin-bottom: 0;
+.about-me-text {
+  flex: 1;
+  padding: 20px;
 }
 
-#contactme-section {
-  font-size: 1.1875rem;
-  margin-top: 3.75rem;
+.about-me-text h2 {
+  margin-top: 0;
 }
 
-#contactme-section h1 {
-  font-size: 3.125rem;
-}
-
-#contact-form p {
-  margin-bottom: 0.625rem;
-}
-
-#contact-form .form-control {
-  margin-bottom: 0.9375rem;
-}
-
-#paypalbtn {
-  text-align: center;
-}
-
-#paypalbtn a {
-  text-decoration: none;
-  font-size: 1.2rem;
-  font-family: arial;
+.about-me-text p {
+  margin-bottom: 20px;
 }
