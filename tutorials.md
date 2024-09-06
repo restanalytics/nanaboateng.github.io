@@ -16,7 +16,7 @@ cover-img:
 
 <div class="list-filters">
   <a href="/" class="list-filter">All posts</a>
-  <a href="/popular" class="list-filter">Most Popular</a>
+[comment]: <> (  <a href="/popular" class="list-filter">Most Popular</a> )
   <a href="/tutorials" class="list-filter filter-selected">Tutorials</a>
   <a href="/tags" class="list-filter">Index</a>
 </div>
