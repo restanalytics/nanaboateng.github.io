@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Projects
-share-title: | Projects
+subtitle: 
 share-description: This is a collection of some of our  projects
 comments: true
 carbonads: true
