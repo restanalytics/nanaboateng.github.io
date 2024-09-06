@@ -12,7 +12,8 @@ navbar-links:
   Blog: "/"
   Hire Us: "https://coastalartificialintelligence.github.io/"
   Projects: "projects"
-  About Us / Contact: "aboutme"
+  About Us : "aboutme"
+  Contact: "aboutme"
   ❤ Support: "https://github.com/sponsors/coastalartificialintelligence"
 
 #avatar: "/assets/img/deanimg.jpeg"
