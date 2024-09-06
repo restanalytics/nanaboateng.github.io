@@ -3,7 +3,7 @@ layout: page
 title: ""
 subtitle:
 css: "/assets/css/index.css"
-[comment]: <> (share-img: /assets/img/deanimg.jpeg)
+share-img: /assets/img/
 share-title: " | Popular posts"
 share-description: "List of all the most popular posts "
 [comment]: <> (support_promo_box: true)
