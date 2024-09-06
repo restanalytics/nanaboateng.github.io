@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Projects
-subtitle: ""
+subtitle: New Projects
 share-title: | Projects
-share-description: This is a collection of some personal projects I’ve worked on, including many open-source software that's used by tens of thousands of people.
+share-description: This is a collection of someof our  projects
 comments: true
 carbonads: true
 ---
