@@ -1,11 +1,8 @@
-remote_theme: daattali/beautiful-jekyll
+#remote_theme: daattali/beautiful-jekyll
 plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-sitemap
-
-#title: Dean Attali
-#author: Dean Attali
 
 
 navbar-links:
@@ -16,7 +13,7 @@ navbar-links:
   Contact: "aboutme"
   ❤ Support: "https://github.com/sponsors/coastalartificialintelligence"
 
-#avatar: "/assets/img/deanimg.jpeg"
+
 
 social-network-links:
   email: "coastalaighana@gmail.com"
@@ -24,10 +21,8 @@ social-network-links:
   github: coastalaighana
   twitter: 
   linkedin: ""
-  #stackoverflow: "3943160/daattali"
   calendly: ""
-  #youtube: "@daattali?sub_confirmation=1"
-  #patreon: DeanAttali
+
 
 share-links-active:
   twitter: true
@@ -54,7 +49,7 @@ permalink: /blog/:title/
 paginate: 10
 paginate_path: "/page:num/"
 
-#disqus: "deanattali-site"
+
 #gtag: "G-HKWW77BNTR"
 #fb_app_id: "536330676521989"
 
